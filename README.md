@@ -16,10 +16,10 @@ price range, table booking, and online delivery.
 ├── Level3_Task1_Predictive_Modeling.py
 ├── Level3_Task2_Customer_Preference_Analysis.py
 ├── Level3_Task3_Data_Visualization.py
-├── Dataset_.csv                # original dataset
-├── Dataset_cleaned.csv         # after Level 1 cleaning
-├── Dataset_features.csv        # after Level 2 feature engineering
-└── *.png                       # generated charts
+├── README.md
+└── Cognifyz-Upload/
+    ├── Dataset_.csv, Dataset_cleaned.csv, Dataset_features.csv
+    └── *.png (all generated charts)
 ```
 
 ## 🔹 Level 1 — Exploration & Analysis
